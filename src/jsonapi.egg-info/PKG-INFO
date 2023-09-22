@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: jsonapi
+Version: 0.0.1
+Summary: A Python package for JSON encoding and decoding complex and range object.
+Author: Kun Wang
+Author-email: wang.kun6@northeastern.edu
